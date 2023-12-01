@@ -6,6 +6,6 @@ Working on [Advent of Code 2023](https://adventofcode.com/2023/)!
 
 |  day | Problem            | A                        | B                        | Stars won                                            |
 | ---: | :----------------- | :----------------------- | :----------------------- | :--------------------------------------------------- |
-|   01 | Day 1: Trebuchet?! | [**A**](day01/a/main.go) | [**B**](day01/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
+|   01 | Trebuchet?! | [**A**](day01/a/main.go) | [**B**](day01/b/main.go) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
 
 *Badges from: https://github.com/J0B10/aoc-badges-action*
