@@ -32,7 +32,7 @@ func (c Card) whichWinningNumbers() Card {
 func (c Card) procesWinnings() {
 	if len(c.winners) > 0 {
 		copyCard := c.cardnumber
-		copies := c.copies
+		copies := c.copies // How many copy's of this card do we have? We need to add that many copies to the next cards
 		for n := 0; n <= len(c.winners)-1; n++ {
 			Cards[copyCard+n].copies += copies
 			// fmt.Printf("Card %d heeft nu %d copies\n", copyCard, Cards[copyCard+n].copies)
